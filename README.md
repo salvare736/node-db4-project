@@ -4,10 +4,10 @@
 
 ### Task 1: Project Setup
 
-- [ ] Fork and clone the repository.
-- [ ] Implement your project in a `firstname-lastname` branch.
-- [ ] Create a pull request of `firstname-lastname` against your `main` branch.
-- [ ] Open the assignment in Canvas and submit your pull request.
+- [X] Fork and clone the repository.
+- [X] Implement your project in a `firstname-lastname` branch.
+- [X] Create a pull request of `firstname-lastname` against your `main` branch.
+- [X] Open the assignment in Canvas and submit your pull request.
 
 ### Task 2: Minimum Viable Product
 
